@@ -70,4 +70,4 @@ APK output:
 
 MIT License
 
-Copyright (c) 2023 Halil OZEL
+Copyright (c) 
