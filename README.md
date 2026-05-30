@@ -25,7 +25,7 @@ A small reflex game built with Kotlin for Android. Catch the fruit that appears 
 - `app/src/main/java/com/halil/ozel/catchthefruits/MainActivity.kt` - game loop, score logic, timer, replay dialog
 - `app/src/main/res/layout/activity_main.xml` - UI with Data Binding
 - `app/src/main/res/values/strings.xml` - localized UI texts and formatted strings
-- `app/src/main/res/values/styles.xml` - Material 3 app theme
+- `app/src/main/res/values/style
 
 ## How the Game Works
 
